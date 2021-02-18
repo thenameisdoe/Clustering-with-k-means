@@ -1,4 +1,4 @@
-##### Chapter 9: Clustering with k-means -------------------
+#####Clustering with k-means -------------------
 
 ## Example: Finding Teen Market Segments ----
 ## Step 2: Exploring and preparing the data ----
